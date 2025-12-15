@@ -1,0 +1,55 @@
+body {
+  width: 260px;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #fdfbfb, #ebedee);
+  padding: 12px;
+}
+
+h2 {
+  margin: 0;
+  color: #6a11cb;
+}
+
+.sub {
+  font-size: 12px;
+  color: #555;
+}
+
+#summary {
+  margin: 10px 0;
+  font-size: 13px;
+}
+
+.chart {
+  margin-top: 10px;
+}
+
+#bars {
+  display: flex;
+  gap: 8px;
+  align-items: flex-end;
+  height: 120px;
+}
+
+.bar {
+  width: 28px;
+  background: linear-gradient(180deg, #84fab0, #8fd3f4);
+  border-radius: 6px 6px 0 0;
+  font-size: 10px;
+  text-align: center;
+}
+
+button {
+  margin-top: 12px;
+  width: 100%;
+  padding: 6px;
+  border: none;
+  border-radius: 6px;
+  background: #6a11cb;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2575fc;
+}
