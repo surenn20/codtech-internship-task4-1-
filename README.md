@@ -31,3 +31,5 @@ This task also taught me about weekly productivity reports. I learned how to sum
 Overall, Task-4 was a very practical and valuable learning experience. It improved my understanding of browser extensions, time tracking logic, backend integration, and data analytics. This task helped me realize how small tools can make a big difference in improving productivity. The skills gained from this task are highly relevant in real-world software development and prepared me to build useful, user-focused applications in the future.
 
 #OUTPUT
+
+<img width="1276" height="763" alt="Image" src="https://github.com/user-attachments/assets/b5611027-0277-4e0d-816a-77f2d876d6d1" />
